@@ -62,6 +62,7 @@ namespace TicTacToeGameProject.UserInterface
                 Console.WriteLine(ex.Message);
             }
         }
+        
         public void AskForPlayAgain()
         {
             try
