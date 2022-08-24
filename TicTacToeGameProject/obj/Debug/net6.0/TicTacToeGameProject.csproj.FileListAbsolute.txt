@@ -1,0 +1,45 @@
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.exe
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.deps.json
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.runtimeconfig.json
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.dll
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.pdb
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.csproj.AssemblyReference.cache
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.AssemblyInfoInputs.cache
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.AssemblyInfo.cs
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.csproj.CoreCompileInputs.cache
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.dll
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\refint\TicTacToeGameProject.dll
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.pdb
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.genruntimeconfig.cache
+C:\C# - Учеба\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\ref\TicTacToeGameProject.dll
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.csproj.AssemblyReference.cache
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.AssemblyInfoInputs.cache
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.AssemblyInfo.cs
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.csproj.CoreCompileInputs.cache
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.dll
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\refint\TicTacToeGameProject.dll
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.pdb
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.exe
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.deps.json
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.runtimeconfig.json
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.dll
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.pdb
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.genruntimeconfig.cache
+C:\Users\ermek\OneDrive\Рабочий стол\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\ref\TicTacToeGameProject.dll
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.exe
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.deps.json
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.runtimeconfig.json
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.dll
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\bin\Debug\net6.0\TicTacToeGameProject.pdb
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.csproj.AssemblyReference.cache
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.AssemblyInfoInputs.cache
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.AssemblyInfo.cs
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.csproj.CoreCompileInputs.cache
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.dll
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\refint\TicTacToeGameProject.dll
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.pdb
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\TicTacToeGameProject.genruntimeconfig.cache
+C:\C# - Учеба\C# Основ. занятия\QA\TicTacToeGameProject\TicTacToeGameProject\obj\Debug\net6.0\ref\TicTacToeGameProject.dll
